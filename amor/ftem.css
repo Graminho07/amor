@@ -1,0 +1,111 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(23,121,9,1) 0%, rgba(23,207,27,1) 0%, rgba(17,204,89,1) 42%, rgba(0,196,255,1) 100%);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    font-style: oblique;
+    text-shadow: 3px 0.0em rgb(75, 75, 75)
+}
+
+.namoro{
+    width: 17%;
+    display: inline-block;
+}
+
+.melhor{
+    width: 17%;
+    display: inline-block;
+}
+
+.zuada{
+    width: 17%;
+    display: inline-block;
+}
+
+.lua{
+    width: 17%;
+    display: inline-block;
+}
+
+.benites{
+    width: 17%;
+    display: inline-block;
+}
+
+.volta{
+    width: 17%;
+}
+
+.jaquetapreta{
+    width: 17%;
+    display: inline-block;
+}
+
+.festa{
+    width: 17%;
+    display: inline-block;
+}
+
+.agnt{
+    width: 17%;
+    display: inline-block;
+}
+
+.mavis{
+    width: 17%;
+    display: inline-block;
+}
+
+.beijinho{
+    width: 17%;
+    display: inline-block;
+}
+
+.fotoeu{
+    width: 17%;
+    display: inline-block;
+}
+
+.olinhos{
+    width: 17%;
+    display: inline-block;
+}
+
+.feliz{
+    width: 17%;
+    display: inline-block;
+}
+
+.mao{
+    width: 17%;
+    display: inline-block;
+}
+
+.recente{
+    width: 17%;
+    display: inline-block;
+}
+
+.fotinho{
+    width: 17%;
+    display: inline-block;
+}
+
+.natal{
+    width: 17%;
+    display: inline-block;
+}
+
+.linda{
+    width: 17%;
+    display: inline-block;
+}
+
+.futuro{
+    width: 17%;
+    display: inline-block;
+}

@@ -1,0 +1,39 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(23,121,9,1) 0%, rgba(23,207,27,1) 0%, rgba(17,204,89,1) 42%, rgba(0,196,255,1) 100%);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    font-style: oblique;
+    text-shadow: 3px 0.0em rgb(75, 75, 75)
+}
+
+ul{
+    color: black;
+    font-family: monospace;
+    font-style: oblique;
+    text-shadow: 2px 0.0rem rgb(75, 75, 75);
+    font-size: 25px;
+    text-decoration: none;
+}
+
+p{
+    color: black;
+    font-family: monospace;
+    font-style: oblique;
+    text-shadow: 2px 0.0rem rgb(75, 75, 75);
+    font-size: 25px;
+    text-decoration: none;
+}
+
+input[type=button]{
+    color: black;
+    font-family: monospace;
+    font-style: oblique;
+    text-shadow: 1px 0.0rem rgb(75, 75, 75);
+    font-size: 20px;
+    text-decoration: none;
+}
